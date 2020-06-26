@@ -1,14 +1,8 @@
 import React from 'react';
-//import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      
-      <h1>Lesson Three</h1>
-
-    </div>
+    <h1>Hello World This is lesson Three</h1>
   );
 }
 
